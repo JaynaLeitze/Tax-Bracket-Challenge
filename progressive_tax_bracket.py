@@ -41,7 +41,6 @@ print(tax(30000))
 print(tax(75000))
 print(tax(15000))
 print(tax(10000))
-
-#This file helped me to think through the problem itself. 
+ 
 #With income bracket and tax computation variables clearly defined, 
-#these variables should be the only thing needing updated
+#tax bracket variables should be the only things that would need to be changed for this function
